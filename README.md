@@ -1,5 +1,16 @@
  ## Olá, eu sou o Lucas Magista
 
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/Lucasmagista">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmagista&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
@@ -11,6 +22,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-lua" height="30" width="70" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <img align="right" alt="Lucas-gif" src="https://i.picasion.com/pic92/e3b215b6384a22bc0339a237d75dbe5b.gif">
 </div>
   
   ##
@@ -28,4 +40,5 @@
   ##
 
   ![Snake animation](https://github.com/lucasmagista/lucasmagista/blob/output/github-contribution-grid-snake.svg)
- 
+
+  
