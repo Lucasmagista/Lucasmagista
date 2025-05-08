@@ -1,13 +1,22 @@
 # <div align="center">👋 Olá, eu sou o Lucas Magista</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Sempre+aprendendo+algo+novo!" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  </a>
 </div>
+
+<!-- Cabeçalho 3D -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4cc9f0&height=200&section=header&text=Lucas%20Magista&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descSize=22">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4cc9f0,100:3a0ca3&height=200&section=header&text=Lucas%20Magista&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descSize=22">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4cc9f0&height=200&section=header&text=Lucas%20Magista&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descSize=22" width="100%" alt="Header" />
+</picture>
 
 <!-- Perfil 3D -->
 <div align="center">
   <a href="https://skyline.github.com/lucasmagista/2025" target="_blank">
-    <img src="https://img.shields.io/badge/Veja%20meu%20perfil%20GitHub%20em%203D-12100E?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Skyline-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
   </a>
 </div>
 
