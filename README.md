@@ -45,7 +45,7 @@
 
 <!-- Status atual -->
 <div align="center">
-  <a href="#">
+  <a href="[def]">
     <img src="https://img.shields.io/badge/🔭%20Focado%20em-Desenvolvimento%20Web-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/📚%20Estudando-TypeScript%20Avançado-blueviolet?style=for-the-badge" />
     <img src="https://img.shields.io/badge/💼%20Open%20to-Colaborações-success?style=for-the-badge" />
@@ -59,60 +59,60 @@
 <div align="center">
   <table>
     <tr>
-      <th>Período</th>
       <th>Curso/Certificação</th>
       <th>Instituição</th>
       <th>Credencial</th>
     </tr>
     <tr>
-      <td>2023 - 2023</td>
-      <td>
-        <strong>Bootcamp Full Stack</strong><br>
-        <em>Desenvolvimento Web Completo</em>
-      </td>
-      <td>Digital Innovation One</td>
-      <td><a href="#" target="_blank">Ver credencial</a></td>
-    </tr>
-    <tr>
-      <td>2022 - 2022</td>
       <td>
         <strong>Especialização em Front-end</strong><br>
         <em>React e Bibliotecas Modernas</em>
       </td>
       <td>Udemy</td>
-      <td><a href="#" target="_blank">Ver credencial</a></td>
+      <td><a href="[def]" target="_blank">Ver credencial</a></td>
     </tr>
     <tr>
-      <td>2020 - 2021</td>
       <td>
         <strong>Curso de Desenvolvimento Web</strong><br>
         <em>HTML, CSS, JavaScript</em>
       </td>
       <td>Rocketseat</td>
-      <td><a href="#" target="_blank">Ver credencial</a></td>
+      <td><a href="[def]" target="_blank">Ver credencial</a></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Certificação em TypeScript Avançado</strong><br>
+        <em>Boas práticas e padrões modernos</em>
+      </td>
+      <td>Alura</td>
+      <td><a href="[def]" target="_blank">Ver credencial</a></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Docker para Desenvolvedores</strong><br>
+        <em>Containers e DevOps</em>
+      </td>
+      <td>Coursera</td>
+      <td><a href="[def]" target="_blank">Ver credencial</a></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Desenvolvimento de APIs com Node.js</strong><br>
+        <em>RESTful e boas práticas</em>
+      </td>
+      <td>Digital Innovation One</td>
+      <td><a href="[def]" target="_blank">Ver credencial</a></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Introdução ao Cloud Computing</strong><br>
+        <em>Fundamentos AWS</em>
+      </td>
+      <td>Fundação Bradesco</td>
+      <td><a href="[def]" target="_blank">Ver credencial</a></td>
     </tr>
   </table>
 </div>
-
-### 📈 Linha do Tempo de Carreira
-
-```mermaid
-timeline
-    title Evolução Profissional
-    2020 : Início dos estudos em desenvolvimento web
-         : Primeiros projetos pessoais
-    2022 : Estágio em Desenvolvimento
-         : Primeiro emprego como Dev Júnior
-    2023 : Promoção para Desenvolvedor Full Stack
-         : Especialização em React e Node.js
-    2024 : Liderança técnica de equipe
-         : Gerenciamento de projetos de grande escala
-    2025 : Contribuições para projetos open source
-         : Mentorias e palestras técnicas
-         : Especialização em arquitetura de software
-```
-
----
 
 ## 📊 Estatísticas GitHub
 
@@ -297,3 +297,6 @@ timeline
 </div>
 
 
+
+
+[def]: #
