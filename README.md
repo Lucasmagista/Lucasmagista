@@ -10,7 +10,7 @@
 
 ### Construindo produtos SaaS, automações e sistemas inteligentes para negócios reais.
 
-Sou desenvolvedor e criador do ecossistema **Hubly**, com foco em soluções para atendimento, delivery, CRM, WhatsApp, automação, IA, infraestrutura própria e sistemas internos para empresas.
+Sou desenvolvedor e criador do ecossistema **Hubly**, com foco em soluções para atendimento, delivery, CRM, marketplaces, WhatsApp, automação, IA, infraestrutura própria e sistemas internos para empresas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lucasmagista-181717?style=for-the-badge&logo=github)](https://github.com/Lucasmagista)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Magista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-magista-67376a202/)
@@ -29,7 +29,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 - plataformas SaaS multi-tenant;
 - CRMs com atendimento integrado;
-- automações para WhatsApp e marketplaces;
+- automações para WhatsApp, marketplaces e ecommerce;
 - bots, fluxos com n8n e integrações externas;
 - infraestrutura com Docker, Portainer, Nginx Proxy Manager e servidores Linux;
 - uso de IA em atendimento, produtividade, análise e sistemas internos;
@@ -39,7 +39,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 ## 🧠 Ecossistema Hubly
 
-A **Hubly** é um ecossistema modular em construção para centralizar ferramentas de gestão, atendimento, automação, delivery, CRM, IA e infraestrutura para pequenos e médios negócios.
+A **Hubly** é um ecossistema modular em construção para centralizar ferramentas de gestão, atendimento, automação, delivery, CRM, ecommerce, IA e infraestrutura para pequenos e médios negócios.
 
 <table>
   <tr>
@@ -48,28 +48,38 @@ A **Hubly** é um ecossistema modular em construção para centralizar ferrament
       <p>Painel central para módulos, empresas, usuários, permissões, automações e integrações.</p>
     </td>
     <td width="50%">
-      <h3>🍔 Hubly Delivery</h3>
+      <h3>🍔 <a href="https://hublydelivey.com.br">Hubly Delivery</a></h3>
       <p>Plataforma de pedidos, cardápio digital, carrinho, atendimento e integração com WhatsApp.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>💬 Hubly CRM</h3>
-      <p>Gestão de clientes, conversas, tickets, funis, histórico e atendimento omnichannel.</p>
+      <h3>🛒 <a href="https://hubly.dev.br">Hubly Ecommerce</a></h3>
+      <p>Gestão centralizada de contas de ecommerce e marketplaces, com foco em operação, controle, automações e visão comercial.</p>
     </td>
     <td width="50%">
-      <h3>⚙️ Hubly Core</h3>
-      <p>Base enterprise com multi-tenant, RBAC, billing, filas, eventos, APIs internas e auditoria.</p>
+      <h3>💬 Hubly CRM</h3>
+      <p>Gestão de clientes, conversas, tickets, funis, histórico e atendimento omnichannel.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
+      <h3>⚙️ Hubly Core</h3>
+      <p>Base enterprise para autenticação, empresas, permissões, planos, integrações e APIs internas.</p>
+    </td>
+    <td width="50%">
       <h3>🤖 Hubly Bots</h3>
       <p>Bots para WhatsApp, automações com n8n, envio de mensagens, lembretes e integrações.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>☁️ Hubly Cloud</h3>
       <p>Ambiente próprio com Ubuntu Server, Docker, Portainer, proxy reverso, monitoramento e serviços internos.</p>
+    </td>
+    <td width="50%">
+      <h3>🧠 Hubly IA</h3>
+      <p>Aplicação de inteligência artificial em atendimento, análise, produtividade e apoio aos módulos do ecossistema.</p>
     </td>
   </tr>
 </table>
@@ -122,15 +132,62 @@ A **Hubly** é um ecossistema modular em construção para centralizar ferrament
 
 ## 🧩 Projetos e frentes de desenvolvimento
 
-| Projeto | Objetivo | Status |
-|---|---|---|
-| **Hubly OS** | Centralizar módulos SaaS, empresas, permissões e automações | Em construção |
-| **Hubly Delivery** | Criar uma plataforma de delivery integrada ao WhatsApp | Em construção |
-| **Hubly CRM** | Atendimento, tickets, clientes, funis e histórico de conversas | Em construção |
-| **Hubly Core** | Arquitetura multi-tenant, RBAC, billing, eventos e APIs internas | Planejamento avançado |
-| **Hubly Cloud** | Servidor próprio com Docker, Portainer, proxy, banco e monitoramento | Ativo |
-| **Bots WhatsApp** | Automações de atendimento, notificações, lembretes e integrações | Em evolução |
-| **IA Operacional** | IA para atendimento, análise, produtividade e apoio a sistemas internos | Pesquisa e testes |
+<table>
+  <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Foco principal</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><strong>Hubly OS</strong></td>
+    <td>Central operacional para reunir módulos, empresas, usuários, permissões, automações e integrações em uma única base.</td>
+    <td>SaaS, gestão, multi-tenant e módulos internos</td>
+    <td>Em construção</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://hublydelivey.com.br">Hubly Delivery</a></strong></td>
+    <td>Plataforma de delivery com cardápio digital, carrinho, vitrine de produtos, atendimento e redirecionamento para WhatsApp.</td>
+    <td>Delivery, pedidos, cardápio e atendimento</td>
+    <td>Em construção</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://hubly.dev.br">Hubly Ecommerce</a></strong></td>
+    <td>Sistema para gerenciamento de contas de ecommerce e marketplaces, voltado para centralizar operação, acompanhamento comercial, automações e visão de desempenho.</td>
+    <td>Marketplaces, ecommerce, contas, operação e dados</td>
+    <td>Em desenvolvimento</td>
+  </tr>
+  <tr>
+    <td><strong>Hubly CRM</strong></td>
+    <td>CRM para organizar clientes, tickets, funis, conversas, histórico de atendimento e integração com canais como WhatsApp.</td>
+    <td>Atendimento, vendas, relacionamento e histórico</td>
+    <td>Em construção</td>
+  </tr>
+  <tr>
+    <td><strong>Hubly Core</strong></td>
+    <td>Núcleo técnico do ecossistema, reunindo autenticação, empresas, usuários, permissões, planos, integrações, APIs internas e regras compartilhadas.</td>
+    <td>Base SaaS, permissões, planos e integrações</td>
+    <td>Planejamento avançado</td>
+  </tr>
+  <tr>
+    <td><strong>Hubly Cloud</strong></td>
+    <td>Ambiente próprio em servidor Linux com Docker, Portainer, Nginx Proxy Manager, banco de dados, serviços internos, monitoramento e automações.</td>
+    <td>Infraestrutura, containers, proxy, banco e observabilidade</td>
+    <td>Ativo</td>
+  </tr>
+  <tr>
+    <td><strong>Hubly Bots</strong></td>
+    <td>Automações para WhatsApp, fluxos com n8n, envio de mensagens, lembretes, webhooks, integrações e atendimento automatizado.</td>
+    <td>WhatsApp, n8n, webhooks e automação</td>
+    <td>Em evolução</td>
+  </tr>
+  <tr>
+    <td><strong>IA Operacional</strong></td>
+    <td>Aplicação de IA em atendimento, análise, produtividade, agentes internos, respostas assistidas e apoio aos módulos do ecossistema Hubly.</td>
+    <td>IA aplicada, agentes, análise e produtividade</td>
+    <td>Pesquisa e testes</td>
+  </tr>
+</table>
 
 ---
 
@@ -142,40 +199,10 @@ Estou concentrado em evoluir uma base sólida para produtos reais, com atenção
 SaaS multi-tenant     → empresas, usuários, permissões e planos
 CRM e atendimento     → tickets, conversas, funis e histórico
 WhatsApp Automation   → Evolution API, bots, webhooks e filas
+Marketplaces          → gestão de contas, ecommerce, dados e operação
 Infraestrutura Linux  → Docker, proxy reverso, monitoramento e backups
 IA aplicada           → agentes, assistentes, análise e automações internas
 Produtos locais       → soluções para empresas, delivery, lojas e operações reais
-```
-
----
-
-## 🧱 Arquitetura que estou estudando e aplicando
-
-```mermaid
-graph TD
-    A[Hubly OS] --> B[Hubly Core]
-    B --> C[Autenticação e RBAC]
-    B --> D[Empresas e Multi-tenant]
-    B --> E[Billing e Planos]
-    B --> F[APIs Internas]
-
-    A --> G[Hubly CRM]
-    A --> H[Hubly Delivery]
-    A --> I[Hubly Bots]
-    A --> J[Hubly IA]
-
-    G --> K[WhatsApp / Evolution API]
-    I --> K
-    I --> L[n8n / Webhooks]
-
-    B --> M[PostgreSQL]
-    B --> N[Redis / Filas]
-    B --> O[Logs / Auditoria]
-
-    P[Hubly Cloud] --> Q[Docker]
-    P --> R[Nginx Proxy Manager]
-    P --> S[Monitoramento]
-    P --> T[Backups]
 ```
 
 ---
@@ -190,32 +217,6 @@ graph TD
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lucasmagista&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🧭 Roadmap pessoal
-
-- [ ] Consolidar a base do **Hubly Core**
-- [ ] Finalizar módulos iniciais do **Hubly Delivery**
-- [ ] Integrar **CRM + Evolution API + WhatsApp**
-- [ ] Criar fluxos profissionais com **n8n**
-- [ ] Padronizar infraestrutura Docker com backups e monitoramento
-- [ ] Evoluir agentes de IA para atendimento, análise e produtividade
-- [ ] Publicar documentação técnica dos principais módulos
-- [ ] Abrir repositórios públicos selecionados do ecossistema Hubly
-
----
-
-## 💡 Como penso produto
-
-Gosto de construir software com visão prática:
-
-- primeiro resolver um problema real;
-- depois organizar a arquitetura;
-- então automatizar processos repetitivos;
-- por fim, transformar em produto reutilizável, escalável e vendável.
-
-Meu objetivo é criar ferramentas que ajudem empresas a vender mais, atender melhor, operar com menos retrabalho e usar tecnologia de forma acessível.
 
 ---
 
