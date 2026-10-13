@@ -104,9 +104,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 ## 🎯 Foco atual
 
-
 Estou concentrado em evoluir uma base sólida para produtos reais, com atenção especial em:
-
 
 ```txt
 SaaS multi-tenant     → empresas, usuários, permissões e planos
@@ -116,61 +114,40 @@ Marketplaces          → gestão de contas, ecommerce, dados e operação
 Infraestrutura Linux  → Docker, proxy reverso, monitoramento e backups
 IA aplicada           → agentes, assistentes, análise e automações internas
 Produtos locais       → soluções para empresas, delivery, lojas e operações reais
-📊 GitHub Stats
-GitHub StatsTop Languages
-GitHub Streak
-📫 Contato
-![GitHub](https://img.shields.io/badge/GitHub-Lucasmagista-181717?style=for-the-badge&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Magista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-@lucasmagista-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-lucas.magista1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-🚀 Construindo tecnologia para negócios reais.
-Footer```
-
+```
 
 ---
 
-
 ## 📊 GitHub Stats
-
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucasmagista&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmagista&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lucasmagista&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
 ---
-
 
 ## 📫 Contato
 
-
 <div align="center">
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lucasmagista-181717?style=for-the-badge&logo=github)](https://github.com/Lucasmagista)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Magista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-magista-67376a202/)
 [![Instagram](https://img.shields.io/badge/Instagram-@lucasmagista-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasmagista)
 [![Gmail](https://img.shields.io/badge/Gmail-lucas.magista1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.magista1@gmail.com)
 
-
 </div>
-
 
 ---
 
-
 <div align="center">
-
 
 ### 🚀 Construindo tecnologia para negócios reais.
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:f59e0b,100:0f172a&height=120&section=footer" alt="Footer" />
-
 
 </div>
